@@ -1,7 +1,7 @@
 new one
 new two
-three
-four
+different three
+different four
 five
 six
 seven
